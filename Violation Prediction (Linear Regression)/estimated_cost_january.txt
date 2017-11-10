@@ -1,0 +1,93 @@
+Cost Estimate Month of January
+
+Cost due to the following type of information security violation
+
+
+Predicted Number of violations due to PERSONAL IDENTITY INFORMATION VIOLATIONS:7.39393939394
+Round off:7
+Cost per violation:$17
+Total:$119
+
+
+
+Predicted Number of violations due to PERSONAL CREDIT INFORMATION VIOLATIONS:10.9090909091
+Round off:10
+Cost per violation:$23
+Total:$230
+
+
+
+Predicted Number of violations due to INTERNAL DOCUMENTS VIOLATIONS:10.6515151515
+Round off:10
+Cost per violation:$9
+Total:$90
+
+
+
+Predicted Number of violations due to DESIGN DOCUMENTS VIOLATIONS:12.196969697
+Round off:12
+Cost per violation:$34
+Total:$408
+
+
+
+Predicted Number of violations due to SOURCE CODE VIOLATIONS:12.2575757576
+Round off:12
+Cost per violation:$34
+Total:$408
+
+
+
+Predicted Number of violations due to INVENTORY DISCLOSURE VIOLATIONS:11.2272727273
+Round off:11
+Cost per violation:$34
+Total:$374
+
+
+
+Predicted Number of violations due to PROGRAM RESTRICTED DATA VIOLATIONS:10.2424242424
+Round off:10
+Cost per violation:$68
+Total:$680
+
+
+
+TOTAL COST DUE TO ABOVE TYPE OF VIOLATATIONS:$2309
+
+
+Cost due to the following medium used for information security violation
+
+
+Predicted Number of violations using EMAIL as a medium of INFORMATION VIOLATION:9.71212121212
+Round off:9
+Cost per violation:$50
+Total:$450
+
+
+
+Predicted Number of violations using WEB as a medium of INFORMATION VIOLATION:8.86363636364
+Round off:8
+Cost per violation:$70
+Total:$560
+
+
+
+Predicted Number of violations using USB as a medium of INFORMATION VIOLATION:12.0454545455
+Round off:12
+Cost per violation:$70
+Total:$840
+
+
+
+Predicted Number of violations using PRINT as a medium of INFORMATION VIOLATION:10.8333333333
+Round off:10
+Cost per violation:$30
+Total:$300
+
+
+
+TOTAL COST DUE TO ABOVE MEDIUMS USED FOR INFORMATION VIOLATATIONS:$2150
+
+
+ESTIMATED TOTAL (JANUARY) COST :$4459
+*****************************************************************************************************
